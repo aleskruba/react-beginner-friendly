@@ -25,5 +25,11 @@ https://www.youtube.com/watch?v=SqcY0GlETPk
 - State Vs Props
 - Passing Children
 - Inspecting Components with React Dev Tools
+
+# Button.tsx
+
 - Exercise: Building a Button Component
+
+# AlertButton.tsx
+
 - Exercise: Showing an Alert
